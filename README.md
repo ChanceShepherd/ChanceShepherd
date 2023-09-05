@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ChanceShepherd
-- 👀 I’m interested in learning how to code and devolope games
-- 🌱 I’m currently learning to code
-- 📫 How to reach me chance.shepherd@icloud.com
-
+Hello my name is Chance, and I am a Mechanical Engineering Student at Iowa State.
 <!---
 ChanceShepherd/ChanceShepherd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
